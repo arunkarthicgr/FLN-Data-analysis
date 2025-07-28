@@ -1,7 +1,7 @@
 function generateFLNLetters() {
   const sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
   const data = sheet.getDataRange().getValues();
-  const templateId = '1_FDIKYTq8mQGicu8Zdi_aY576cf2N_MuLyDxwrhgce8'; // Replace with your actual template ID
+  const templateId = 'xxxxxxxx'; // Replace with your actual template ID
   const parentFolder = DriveApp.createFolder('FLN_Letters_' + new Date().toISOString());
 
   for (let i = 1; i < data.length; i++) {
