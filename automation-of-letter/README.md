@@ -45,6 +45,16 @@ This automation solves the above problem using an end-to-end Google Apps Script 
 - **Google Drive**: Used for storing organized output letters in batch-wise folders
 
 ---
+### ▶️ Run Instructions
+
+1. **Open your Google Sheet**
+2. Go to **Extensions → Apps Script**
+3. In `Code.gs`, paste the code provided
+4. Replace `templateId` with the actual Google Docs template ID
+5. Click the disk icon to **save the script**
+6. Click the **Run ▶️ button** beside `generateFLNLetters`
+7. The script will request **permissions** on first run → Click **Allow**
+8. Wait until the script finishes execution
 
 ## Code Highlights
 
