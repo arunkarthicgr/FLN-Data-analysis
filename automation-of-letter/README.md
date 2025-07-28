@@ -32,7 +32,8 @@ This automation solves the above problem using an end-to-end Google Apps Script 
 
 ## Workflow Diagram
 
-![FLN Letter Workflow](./A_flowchart_diagram_visually_represents_an_automat.png)
+<img width="1536" height="1024" alt="workflow" src="https://github.com/user-attachments/assets/e8a20815-7887-47f5-b83a-5ec5023624ed" />
+
 
 ---
 
